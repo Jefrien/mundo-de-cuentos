@@ -1,0 +1,24 @@
+[
+    {
+      "title": "La Profecía de la Luz Estelar",
+      "category": "Magia y Hechicería",
+      "content": "<div>\n<h2>La Profecía de la Luz Estelar</h2>\n<img src=\"imagen_cuento1.jpg\" alt=\"Ilustración de un bosque mágico\" />\n\n<p>En el corazón de un bosque profundo, donde los árboles se elevaban como dedos gigantes hacia el cielo y los ríos susurraban secretos antiguos, se encontraba la humilde cabaña del hechicero Eldrin. Sus manos, curtidas por años de trabajo con hierbas y pociones, poseían una extraña habilidad para manipular la naturaleza.  Eldrin, conocido por su sabiduría y su don para la magia, era la última esperanza de un reino amenazado por una creciente oscuridad. La leyenda decía que dentro de un cofre de madera oscura, custodiado por una antigua profecía, yace la Luz Estelar, una piedra con un resplandor mágico que poseía un poder inmenso, capaz de dispersar las tinieblas y restaurar el equilibrio.</p>\n\n<p>Pero la Luz Estelar no era un simple objeto. Era el último eslabón de una cadena de magia que conectaba a los humanos con la naturaleza. Cada brillo de la piedra contenía la memoria de los ancestros, el susurro de las eras y la promesa de un futuro brillante. El reino había vivido años de paz y prosperidad gracias a su brillo, pero una amenaza ancestral, un hechicero oscuro conocido como Malkor, buscaba apoderarse de la piedra para dominar el mundo. Su poder, alimentado por el miedo y la desesperación, se extendía como un manto oscuro, cubriendo el reino con una capa de sombras y silenciando las melodías de la naturaleza.</p>\n\n<p>Eldrin, consciente del peligro, sintió el peso de la responsabilidad sobre sus hombros. Sabía que solo él podía detener a Malkor. Pero la profecía revelaba un secreto aterrador: para liberar el poder de la Luz Estelar, Eldrin debía emprender un viaje peligroso a través de un laberinto de pruebas y desafíos, un camino plagado de criaturas mágicas y trampas engañosas. El camino era largo y oscuro, pero Eldrin no tenía elección. Debía seguir la profecía, enfrentarse a sus miedos y defender a su pueblo, incluso si significaba arriesgar su propia vida. Su viaje lo llevaría a través de paisajes imponentes, donde los espíritus de la naturaleza le revelarían pistas escondidas y seres extraordinarios ayudarían en su camino.</p>\n\n<p>Durante su viaje, Eldrin se encontrará con una variedad de personajes, algunos dispuestos a ayudar y otros con intenciones ocultas.  Encontraría a una sabia duende, un ágil arquero elfo y un enigmático espectro. Cada encuentro añadiría un nuevo misterio a la profecía y revelarían nuevos aspectos sobre la amenaza de Malkor.  A medida que avanzaba, se daría cuenta de que el poder de la Luz Estelar no solo se encontraba en la piedra, sino también en la fortaleza del espíritu y la unidad del pueblo.</p>\n\n<p>¿Podrá Eldrin liberar el poder de la Luz Estelar y detener a Malkor antes de que sea demasiado tarde? ¿Descubrirá la profecía que lo guiará hacia la victoria o sucumbirá a las tinieblas?</p>\n</div>",
+      "questions": [
+        {
+          "question": "¿Qué amenaza se cierne sobre el reino?",
+          "options": ["Una plaga de insectos", "Una guerra entre reinos", "Un hechicero oscuro llamado Malkor", "Una inundación"],
+          "answer": "Un hechicero oscuro llamado Malkor"
+        },
+        {
+          "question": "¿Qué busca Malkor?",
+          "options": ["El trono del reino", "El poder de la Luz Estelar", "El control de la naturaleza", "Los secretos de la magia"],
+          "answer": "El poder de la Luz Estelar"
+        },
+        {
+          "question": "¿Qué debe hacer Eldrin para liberar el poder de la Luz Estelar?",
+          "options": ["Conseguir un objeto mítico", "Resolver un rompecabezas mágico", "Viajar y enfrentar pruebas", "Desarrollar una gran armadura"],
+          "answer": "Viajar y enfrentar pruebas"
+        }
+      ]
+    }
+  ]
